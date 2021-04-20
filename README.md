@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Garrett-Bodley
+# 👋 Hi, I’m Garrett
 ---
 Former jazz musician turned full stack programmer hungry to deploy my creative skillset in a new field.  As a practiced improviser, I excel at finding innovative ways to match my abilities to new settings. Comfortable learning new systems and thinking creatively within them to achieve a common goal. My experience managing a company with 30+ workers and 2000+ clients gives me excellent team management skills. 
 
