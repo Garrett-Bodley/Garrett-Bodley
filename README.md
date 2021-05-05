@@ -16,23 +16,25 @@ I strongly believe that my creative, curious demeanor, and ability to flexibly i
 ## Projects
 **Noodlr** | [Live Demo](https://practical-pare-d3cda2.netlify.app/) | [Frontend](https://github.com/Garrett-Bodley/noodlr-frontend) | [Backend](https://github.com/Garrett-Bodley/noodlr-backend)
 
-An online step sequencer allowing users to experiment with creating their own musical vamps.
+An online step sequencer allowing users to experiment with creating their own music.
+
+Built with a Rails API backend and a React Redux Frontend. Utilizes [Tone.js](https://tonejs.github.io/) to programmatically generate music.
 
 **JavaSketcher** | [Live Demo](https://stoic-ride-9fda3f.netlify.app/) | [Repo](https://github.com/Garrett-Bodley/JavaSketcher)
 
-A single page application that lets users create, save, and share their own digital drawings.
+A fun single page application that lets users express themselves creatively through drawing. Drawings can be saved locally and/or uploaded to the server.
 
 Built with a Rails API backend and "vanilla" Javascript frontend.
 
 **Breadbook** | [Live Demo](https://breadbook.herokuapp.com/) | [Repo](https://github.com/Garrett-Bodley/BreadBook)
 
-An expansion on Sourdough Tracker, BreadBook incorporates social media functionality, allowing users to browse the recipes and ingredients of other users (ranked by usage or popularity if desired). Users may comment on, like, and bookmark various recipes if desired.
+An expansion on Sourdough Tracker, BreadBook incorporates social media functionality, allowing users to browse the recipes and ingredients of other users (ranked by usage or popularity if desired). Users may comment on, like, and bookmark various recipes as well.
 
 Built using Ruby on Rails.
 
 **Sourdough Tracker** | [Live Demo](https://sourdough-trackr.herokuapp.com/) | [Repo](https://github.com/Garrett-Bodley/sourdough-tracker)
 
-Baking sourdough is a complicated process that spans many hours (or even days). Like any other process utilizing fermentation, there exists natural variation due to temperature, humidity, starter strength, water temp, etc. Sourdough Tracker is an online utility that helps users log the various actions throughout the process, tracking the time, what was done, and leaving space for any additional notes.
+While making sourdough, like any process utilizing fermentation, there exists natural variation due to temperature, humidity, starter strength, etc. Sourdough Tracker is an online utility that helps users log the various actions throughout the process, tracking the time, what was done, and leaving space for any additional notes.
 
 Built using Sinatra
 
