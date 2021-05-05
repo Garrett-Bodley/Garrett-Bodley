@@ -6,14 +6,16 @@ In many ways, I think the aspects of my personality that made me excel musically
 I strongly believe that my creative, curious demeanor, and ability to flexibly integrate into a team is of value to any future employer.
 
 ## Technical Skills
-<img src="https://icongr.am/devicon/heroku-original.svg?size=40&color=currentColor" />
-<img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" />
-<img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=40&color=currentColor" />
-<img src="https://icongr.am/devicon/react-original-wordmark.svg?size=40&color=currentColor" />
-<img src="https://icongr.am/devicon/ruby-plain-wordmark.svg?size=40&color=currentColor" />
-<img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=40&color=currentColor" />
-<img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" />
-<img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=40&color=currentColor" />
+<span>
+  <img src="https://icongr.am/devicon/heroku-original.svg?size=40&color=currentColor" />
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" />
+  <img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=40&color=currentColor" />
+  <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=40&color=currentColor" />
+  <img src="https://icongr.am/devicon/ruby-plain-wordmark.svg?size=40&color=currentColor" />
+  <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=40&color=currentColor" />
+  <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" />
+  <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=40&color=currentColor" />
+</span>
 
 ## Projects
 **Noodlr** | [Live Demo](https://practical-pare-d3cda2.netlify.app/) | [Frontend](https://github.com/Garrett-Bodley/noodlr-frontend) | [Backend](https://github.com/Garrett-Bodley/noodlr-backend)
