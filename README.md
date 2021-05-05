@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 # 👋 Hi, I’m Garrett
 A former jazz musician turned full-stack programmer hungry to deploy my creative skills within a new field.
 
@@ -7,13 +6,14 @@ In many ways, I think the aspects of my personality that made me excel musically
 I strongly believe that my creative, curious demeanor, and ability to flexibly integrate into a team is of value to any future employer.
 
 ## Technical Skills
-<i class="devicon-rails-plain-wordmark colored"></i>
-<i class="devicon-react-original-wordmark colored"></i>
-<i class="devicon-redux-original"></i>
-<i class="devicon-javascript-plain"></i>
-<i class="devicon-postgresql-plain-wordmark colored"></i>
-<i class="devicon-bootstrap-plain-wordmark"></i>
-<i class="devicon-html5-plain-wordmark colored"></i>
+<img src="https://icongr.am/devicon/heroku-original.svg?size=40&color=currentColor" />
+<img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" />
+<img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=40&color=currentColor" />
+<img src="https://icongr.am/devicon/react-original-wordmark.svg?size=40&color=currentColor" />
+<img src="https://icongr.am/devicon/ruby-plain-wordmark.svg?size=40&color=currentColor" />
+<img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=40&color=currentColor" />
+<img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" />
+<img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=40&color=currentColor" />
 
 ## Projects
 **Noodlr** | [Live Demo](https://practical-pare-d3cda2.netlify.app/) | [Frontend](https://github.com/Garrett-Bodley/noodlr-frontend) | [Backend](https://github.com/Garrett-Bodley/noodlr-backend)
