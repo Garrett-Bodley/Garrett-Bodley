@@ -9,12 +9,13 @@ I strongly believe that my creative, curious demeanor, and ability to flexibly i
 <span>
   <img src="https://icongr.am/devicon/heroku-original.svg?size=60&color=currentColor" />
   <img src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor" />
-  <img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=60&color=currentColor" />
+  <img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=60&color=ff0000" />
   <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=60&color=currentColor" />
-  <img src="https://icongr.am/devicon/ruby-plain-wordmark.svg?size=60&color=currentColor" />
-  <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=60&color=currentColor" />
-  <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=60&color=currentColor" />
-  <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=60&color=currentColor" />
+  <img src="https://icongr.am/devicon/ruby-original-wordmark.svg?size=60&color=ff0000" />
+  <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=60&color=ffffff" />
+  <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=60&color=ff5c5c" />
+  <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=60&color=00ffbf" />
+  <img src="https://icongr.am/devicon/git-original.svg?size=60&color=ff5c5c" />
 </span>
 
 ## Projects
