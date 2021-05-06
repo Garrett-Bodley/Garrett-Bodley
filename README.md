@@ -29,7 +29,7 @@ Built with a Rails API backend and a React Redux Frontend. Utilizes [Tone.js](ht
 
 A fun single page application that lets users express themselves creatively through drawing. Drawings can be saved locally and/or uploaded to the server.
 
-Built with a Rails API backend and "vanilla" Javascript frontend.
+Built with a Rails API backend and "vanilla" Javascript frontend. 
 
 **Breadbook** | [Live Demo](https://breadbook.herokuapp.com/) | [Repo](https://github.com/Garrett-Bodley/BreadBook)
 
@@ -39,7 +39,7 @@ Built using Ruby on Rails.
 
 **Sourdough Tracker** | [Live Demo](https://sourdough-trackr.herokuapp.com/) | [Repo](https://github.com/Garrett-Bodley/sourdough-tracker)
 
-While making sourdough, like any process utilizing fermentation, there exists natural variation due to temperature, humidity, starter strength, etc. Sourdough Tracker is an online utility that helps users log the various actions throughout the process, tracking the time, what was done, and leaving space for any additional notes.
+While making sourdough, like any process utilizing fermentation, there exists natural variation due to temperature, humidity, starter strength, etc. Sourdough Tracker is an online utility that helps users log actions throughout the process, tracking the time, what was done, and leaving space for any additional notes.
 
 Built using Sinatra
 
