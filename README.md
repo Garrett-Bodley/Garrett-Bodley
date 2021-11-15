@@ -19,7 +19,7 @@ I strongly believe that my creative, curious demeanor, and ability to flexibly i
 </span>
 
 ## Projects
-**Noodlr 2.0** [Live Site](https://noodlr.netlify.app) | [Repo](https://github.com/Garrett-Bodley/noodlr-2.0)
+**Noodlr 2.0** | <a href="https://noodlr.netlify.app" target="_blank">Live Demo</a> | [Repo](https://github.com/Garrett-Bodley/noodlr-2.0)
 
 TLDR: Noodlr with a facelift.
 
@@ -27,25 +27,25 @@ While I was happy with the logic of the original Noodlr, the site had an underwh
 
 Noodlr 2.0 is built with 100% functional components. It utilizes custom hooks, custom Context Providers, react-spring and more. Currently a front-end only web-app, though a fleshed out back end is in the works.
 
-**Noodlr** | [Live Demo](https://practical-pare-d3cda2.netlify.app/) | [Frontend](https://github.com/Garrett-Bodley/noodlr-frontend) | [Backend](https://github.com/Garrett-Bodley/noodlr-backend)
+**Noodlr** | <a href="https://practical-pare-d3cda2.netlify.app/" target="_blank">Live Demo</a> | [Frontend](https://github.com/Garrett-Bodley/noodlr-frontend) | [Backend](https://github.com/Garrett-Bodley/noodlr-backend)
 
 An online step sequencer allowing users to experiment with creating their own music.
 
 Built with a Rails API backend and a React Redux Frontend. Utilizes [Tone.js](https://tonejs.github.io/) to programmatically generate music.
 
-**JavaSketcher** | [Live Demo](https://stoic-ride-9fda3f.netlify.app/) | [Repo](https://github.com/Garrett-Bodley/JavaSketcher)
+**JavaSketcher** | <a href="https://stoic-ride-9fda3f.netlify.app/" target="_blank">Live Demo</a> | [Repo](https://github.com/Garrett-Bodley/JavaSketcher)
 
 A fun single page application that lets users express themselves creatively through drawing. Drawings can be saved locally and/or uploaded to the server.
 
 Built with a Rails API, HTML, and Javascript. 
 
-**Breadbook** | [Live Demo](https://breadbook.herokuapp.com/) | [Repo](https://github.com/Garrett-Bodley/BreadBook)
+**Breadbook** | <a href="https://breadbook.herokuapp.com/" target="_blank">Live Demo</a> | [Repo](https://github.com/Garrett-Bodley/BreadBook)
 
 An expansion on Sourdough Tracker, BreadBook incorporates social media functionality, allowing users to browse the recipes and ingredients of other users (ranked by usage or popularity if desired). Users may comment on, like, and bookmark various recipes as well.
 
 Built with Ruby on Rails.
 
-**Sourdough Tracker** | [Live Demo](https://sourdough-trackr.herokuapp.com/) | [Repo](https://github.com/Garrett-Bodley/sourdough-tracker)
+**Sourdough Tracker** | <a href="https://sourdough-trackr.herokuapp.com/" target="_blank">Live Demo</a> | [Repo](https://github.com/Garrett-Bodley/sourdough-tracker)
 
 While making sourdough, like any process utilizing fermentation, there exists natural variation due to temperature, humidity, starter strength, etc. Sourdough Tracker is an online utility that helps users log actions throughout the process, tracking the time, what was done, and leaving space for any additional notes.
 
