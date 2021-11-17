@@ -23,7 +23,7 @@ I strongly believe that my creative, curious demeanor, and ability to flexibly i
 
 TLDR: Noodlr with a facelift.
 
-While I was happy with the logic of the original Noodlr, the site had an underwhelming UI to say the least. After spending some time learning more about CSS and front end technologies in general, I decided to rebuild it from scratch.
+While I was happy with the logic of the original Noodlr, the site had an underwhelming UI. After spending some time studying the front end with greater depth, I rebuilt the project from scratch.
 
 Noodlr 2.0 is built with 100% functional components. It utilizes custom hooks, custom Context Providers, react-spring and more. Currently a front-end only web-app, though a fleshed out back end is in the works.
 
